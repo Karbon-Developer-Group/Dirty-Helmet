@@ -1,0 +1,4 @@
+name: Dirty_Helmets
+version: ${project.version}
+main: com.karbon.dirthelmet.Main
+api-version: 1.13
